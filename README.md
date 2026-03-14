@@ -2,12 +2,26 @@
 
 ## About me
 
-- Currently, studying in the Department of Information Management and Finance (Program of Information Management) at NYCU.
-- Research Interests: `LLM Agents`, `Opinion Dynamics`, `Echo Chambers`, `Game Theory`, `Computational Social Science`, and `Fintech`
+- 🎓 Information Management & Finance background
+- 🔬 Reseach Interested in Computational Social Science, LLM Agents, Opinion Dynamics, Echo Chambers, Game Theory, and FinTech
+- 🤖 Research: Game Theory + LLM-based Agent Simulation
+- 💻 Focus on system implementation and simulation experiments
 
 ## Programming skills
 
-!(https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+</p>
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+</p>
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
