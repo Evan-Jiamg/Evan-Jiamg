@@ -1,13 +1,13 @@
-# Hi, I'm Evan
+# Hi, I'm Evan 👋
 
-> Information Management student @ NYCU · LLM Agent Research · Fintech
+> Information Management @ NYCU · LLM Agent Research · Fintech
 
 ## About me
 
-- Studying Information Management at **NYCU (陽明交大)**
-- Researching **opinion dynamics & echo chambers** using LLM-based multi-agent simulation
-- Building **H-CAP** — a cross-border inclusive credit scoring platform for migrant workers in Taiwan
-- Interested in Game Theory, NLP, and financial inclusion
+- 大三就讀 **NYCU 資訊管理與財務金融學系（資管組）**
+- 在陳柏安教授指導下研究 **Computational Social Science**，結合 Game Theory 與 LLM-based Agent Simulation，探討不同 Social Network Structures 下 Echo Chamber Formation 與 Price of Anarchy (PoA) 上界
+- 自主設計 **H-CAP** 普惠金融系統，解決台灣約 70 萬移工缺乏本地信用紀錄的問題
+- 擔任《意境商店》Database Designer & Project Manager，完成 3NF 設計與季節 × 心情雙維度商品篩選
 
 ## Programming skills
 
@@ -17,19 +17,22 @@
 ![Java](https://img.shields.io/badge/Java-D85A30?style=flat-square&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-BA7517?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-1D9E75?style=flat-square&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-7F77DD?style=flat-square&logo=php&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-888780?style=flat-square&logo=flask&logoColor=white)
 
 ## Research interests
 
-`LLM Agents` `Opinion Dynamics` `Echo Chambers` `Game Theory` `Fintech`
+`LLM Agents` `Opinion Dynamics` `Echo Chambers` `Game Theory / PoA` `Computational Social Science` `Fintech / Financial Inclusion`
 
 ## Featured projects
 
-| Project | Description |
-|---|---|
-| [H-CAP](https://github.com/Evan-Jiamg/H-CAP) | Inclusive credit scoring for migrant workers using OID4VP credentials |
-| [Credential-Issuer](https://github.com/Evan-Jiamg/Credential-Issuer) | Digital credential issuance with Taiwan MoDA wallet API (Flask + OID4VP) |
-| [Telegram-Bot-Texas-Hold-em](https://github.com/Evan-Jiamg/Telegram-Bot-Texas-Hold-em) | Texas Hold'em poker game bot in Python for Telegram |
-| [Algorithm-Practice-Collections](https://github.com/Evan-Jiamg/Algorithm-Practice-Collections) | Competitive programming practice collection |
+| Project | Description | Stack |
+|---|---|---|
+| [H-CAP](https://github.com/Evan-Jiamg/H-CAP) | 台灣移工普惠金融系統，整合 OID4VCI 數位憑證、Groq AI 語音面談、區塊鏈匯款追蹤 | Python Flask, OID4VP |
+| [Credential-Issuer](https://github.com/Evan-Jiamg/Credential-Issuer) | 數位憑證發行系統，串接數發部沙盒 API，Vercel Serverless Proxy 解決 CORS | Flask, Vercel |
+| [Telegram-Bot-Texas-Hold-em](https://github.com/Evan-Jiamg/Telegram-Bot-Texas-Hold-em) | Python 實作德州撲克遊戲 Bot，支援玩家對抗三種策略差異的電腦 AI，涵蓋完整四輪下注流程 | Python, Telegram API |
+| [Algorithm-Practice-Collections](https://github.com/Evan-Jiamg/Algorithm-Practice-Collections) | C++ 演算法實作：Knight Tour、N-Queen、Kruskal/Prim MST，均具備 GUI 視覺化介面 | C++ |
+| [NYCU-Meal-Selection-Assistant](https://github.com/Evan-Jiamg/NYCU-Meal-Selection-Assistant) | Java 學餐推薦工具，整合光復校區三間餐廳資訊，支援時段與餐點類型複合篩選與視覺化隨機抽選 | Java |
 
 ## GitHub stats
 
