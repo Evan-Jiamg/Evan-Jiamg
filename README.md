@@ -1,11 +1,9 @@
-# Hi, I'm Evan
+# What's up, I'm Evan!
 
 ## About me
 
-- 大三就讀 **NYCU 資訊管理與財務金融學系（資管組）**
-- 在陳柏安教授指導下研究 **Computational Social Science**，結合 Game Theory 與 LLM-based Agent Simulation，探討不同 Social Network Structures 下 Echo Chamber Formation 與 Price of Anarchy (PoA) 上界
-- 參與設計和實作 **H-CAP** 普惠金融系統，為解決台灣約 70 萬移工缺乏本地信用紀錄的問題
-- 擔任《意境商店》Database Designer & Project Manager，完成 3NF 設計與季節 × 心情雙維度商品篩選
+-  **NYCU 資訊管理與財務金融學系（資管組）**
+- `Research Interests: LLM Agents` `Opinion Dynamics` `Echo Chambers` `Game Theory / PoA` `Computational Social Science` `Fintech`
 
 ## Programming skills
 
@@ -17,10 +15,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-1D9E75?style=flat-square&logo=mysql&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-7F77DD?style=flat-square&logo=php&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-888780?style=flat-square&logo=flask&logoColor=white)
-
-## Research interests
-
-`LLM Agents` `Opinion Dynamics` `Echo Chambers` `Game Theory / PoA` `Computational Social Science` `Fintech`
 
 ## Featured projects
 
