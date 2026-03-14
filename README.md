@@ -3,7 +3,7 @@
 ## About me
 
 - Currently, studying in the Department of Information Management and Finance (Program of Information Management) at NYCU.
-- Research Interests: `LLM Agents` `Opinion Dynamics` `Echo Chambers` `Game Theory / PoA` `Computational Social Science` `Fintech`
+- Research Interests: `LLM Agents`, `Opinion Dynamics`, `Echo Chambers`, `Game Theory`, `Computational Social Science`, and `Fintech`
 
 ## Programming skills
 
