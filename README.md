@@ -2,7 +2,7 @@
 
 ## About me
 
-- 目前就讀於 **NYCU 資訊管理與財務金融學系（資管組）**
+- Currently, studying in the Department of Information Management and Finance (Program of Information Management) at NYCU.
 - Research Interests: `LLM Agents` `Opinion Dynamics` `Echo Chambers` `Game Theory / PoA` `Computational Social Science` `Fintech`
 
 ## Programming skills
