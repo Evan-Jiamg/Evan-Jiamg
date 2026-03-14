@@ -2,8 +2,8 @@
 
 ## About me
 
--  **NYCU 資訊管理與財務金融學系（資管組）**
-- `Research Interests: LLM Agents` `Opinion Dynamics` `Echo Chambers` `Game Theory / PoA` `Computational Social Science` `Fintech`
+- 目前就讀於 **NYCU 資訊管理與財務金融學系（資管組）**
+- Research Interests: `LLM Agents` `Opinion Dynamics` `Echo Chambers` `Game Theory / PoA` `Computational Social Science` `Fintech`
 
 ## Programming skills
 
