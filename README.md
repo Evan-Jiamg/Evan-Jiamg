@@ -11,8 +11,8 @@
 
 <table>
   <tr>
-    <td><strong>Programming Languages</strong></td>
-    <td><strong>Database Languages</strong></td>
+    <td><strong>--Programming Languages--</strong></td>
+    <td><strong>--Database Languages--</strong></td>
   </tr>
   <tr>
     <td>
