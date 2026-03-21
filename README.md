@@ -31,7 +31,7 @@
 ## Featured projects
 | Project | Description | Stack |
 |---|---|---|
-| [Python-ML-Quant](https://github.com/Evan-Jiamg/Python-ML-Quant) | Python 基礎、Machine Learning 與 Quantitative Finance 的 Notebook 集，涵蓋 Black-Scholes Options 定價、Genetic Algorithm、LPPL 價格預測、Decision Tree 分類與 CNN 影像辨識 | Python, sklearn, TensorFlow |
+| [Python-ML-Quant](https://github.com/Evan-Jiamg/Python-ML-Quant) | Python 基礎、Machine Learning 與 Quantitative Finance 的 Notebook ，包括 Black-Scholes Options 定價、Genetic Algorithm、LPPL 價格預測、Decision Tree 分類與 CNN 影像辨識 | Python, sklearn, TensorFlow |
 | [H-CAP](https://github.com/Evan-Jiamg/H-CAP) | 台灣移工普惠金融系統，整合 OID4VCI 數位憑證、Groq AI 語音面談、區塊鏈匯款追蹤 | Python Flask, OID4VP |
 | [Credential-Issuer](https://github.com/Evan-Jiamg/Credential-Issuer) | 數位憑證發行系統，串接數發部沙盒 API，Vercel Serverless Proxy 解決 CORS | Flask, Vercel |
 | [Algorithm-Practice-Collections](https://github.com/Evan-Jiamg/Algorithm-Practice-Collections) | C++ 演算法實作：Knight Tour、N-Queen、Kruskal/Prim MST...等內容，均具備 GUI 視覺化介面 | C++ |
